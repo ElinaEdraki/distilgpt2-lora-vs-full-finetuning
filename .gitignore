@@ -1,0 +1,4 @@
+saved_full_model/
+*.safetensors
+undrip_report.pdf
+economic_report.pdf
